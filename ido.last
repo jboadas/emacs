@@ -1,0 +1,91 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/jboadas/Downloads/" . "infoman/")
+ ("/home/jboadas/devel/" . "ocaml/")
+ ("/home/jboadas/" . "devel/")
+ ("c:/Lisp/home/" . ".emacs.d/")
+ ("c:/Lisp/" . "home/")
+ ("c:/devel/haskell/my-yesod/static/" . "tmp/")
+ ("c:/devel/haskell/my-yesod/" . "templates/")
+ ("c:/devel/haskell/" . "Fractals.hsproj/")
+ ("c:/devel/" . "fsharp/")
+ ("c:/" . "Lisp/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/jboadas/devel/ocaml/"
+ "/home/jboadas/"
+ "/home/jboadas/.emacs.d/"
+ "c:/Lisp/home/.emacs.d/"
+ "c:/devel/fsharp/"
+ "c:/devel/haskell/Fractals.hsproj/"
+ "c:/devel/haskell/"
+ "c:/devel/haskell/my-yesod/templates/"
+ "c:/devel/haskell/my-yesod/app/"
+ "c:/devel/haskell/my-yesod/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "compara-paquetes.ml"
+ "test.ml"
+ ".bashrc"
+ ".profile"
+ "init.el"
+ "tests.ml"
+ "gameoflife.fsx"
+ "tests.fsx"
+ "tests.fs"
+ "Fractals.hs"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/jboadas/devel/ocaml/" (22828 36798 820488 987000) "myapp/" "compara-paquetes.ml" "./" "test.ml" "../")
+
+ ("/home/jboadas/" (22828 36853 434357 164000) ".eclipse/" ".xfce4-session.verbose-log.last" ".designer/" ".ICEauthority" "Pictures/" ".xinitrc" ".cache/" ".oracle_jre_usage/" ".bluefish/" ".mozilla/" ".xfce4-session.verbose-log" ".Xresources" "Templates/" ".local/" "Downloads/" "Documents/" ".thumbnails/" ".bash_profile" ".extend.bashrc" ".bash_logout" ".kompozer.net/" ".profile" ".ccache/" ".Xclients" "./" ".bashrc" ".npm/" "Public/" ".ocp/" ".java/" ".m2/" ".gnupg/" ".config/" ".xsession-errors.old" ".emacs.d/" ".guayadeque/" ".smex-items" ".grafx2/" "jagexcache/" ".xsession-errors" ".swt/" "jagex_cl_oldschool_LIVE.dat" ".icons/" ".bash_history" "random.dat" "Videos/" ".mono/" ".ocamlinit" ".gnome/" ".xprofile" "Desktop/" ".dir_colors" ".osbuddy/" ".Xauthority" ".mtpaint" ".thunderbird/" ".vimrc" "Music/" ".opam/" ".utop-history" "devel/" ".dmrc" "../" ".esd_auth" ".viminfo" ".extend.xinitrc" ".xsession" ".gimp-2.8/")
+
+ ("/home/jboadas/devel/" (22828 11557 863058 883000) "./" "ocaml/" "java/" "various/" "../")
+
+ ("/home/jboadas/.emacs.d/" (22760 23827 740919 0) "init.el" "elpa/" "themes/" "./" "../" "ido.last" "auto-save-list/" "tuareg-master/")
+
+ ("/home/jboadas/develop/" (22743 11730 308466 828000) "haskell/" "Java/" "emacs/" "./" "Great Books/" "../" "Ocaml/")
+
+ ("/home/jboadas/Downloads/" (22759 1959 69491 531000) "ocaml-4.04-refman.pdf" "jdk-8u121-linux-x64.tar.gz" "emacs-keys.txt" "ocaml-4.04-refman.info.tar.gz" "Udemy - Kotlin Programming Next Level Java Development/" "java-debian.org" "ocaml-4.04-refman-html.tar.gz" "var-cache-apt-archives/" "eclipse-jee-neon-3-linux-gtk-x86_64.tar.gz" "ideaIC-2017.1.tar.gz" "Vivienda - Auyama/" "./" "urw_3.40_amd64.deb" "infoman/" "../")
+
+ ("/home/jboadas/Downloads/infoman/" (22759 1878 458116 907000) "ocaml.info.body-11.gz" "ocaml.info.body-23.gz" "ocaml.info.body-1.gz" "ocaml.info.body-4.gz" "ocaml.info.body-22.gz" "ocaml.info.body-9.gz" "ocaml.info.body-15.gz" "ocaml.info.body-8.gz" "ocaml.info.body-18.gz" "ocaml.info.hocaml.info.hind.gz" "ocaml.info.haux.gz" "ocaml.info.body-6.gz" "ocaml.info.body-5.gz" "ocaml.info.body-16.gz" "ocaml.info.body-27.gz" "ocaml.info.body-20.gz" "ocaml.info.body-10.gz" "ocaml.info.body-3.gz" "ocaml.info.body-2.gz" "ocaml.info.body-19.gz" "ocaml.info.body-13.gz" "./" "ocaml.info.body-12.gz" "ocaml.info.body-25.gz" "ocaml.info.hocaml.info.kwd.hind.gz" "../" "ocaml.info.body-26.gz" "ocaml.info.gz" "ocaml.info.body-14.gz" "ocaml.info.body-7.gz" "ocaml.info.body-24.gz" "ocaml.info.body-17.gz" "ocaml.info.body-21.gz")
+
+ ("c:/Lisp/home/.emacs.d/" (22630 42982 0 0) "tuareg-master/" "themes/" "init.el" "ido.last" "elpa/" "auto-save-list/" "../" "./")
+
+ ("c:/Lisp/home/" (22630 42982 0 0) "_viminfo" "xaa" "tmp/" "repo/" "java-debian.org" "Instalar arch.org" "fsharp.emacs.d.zip" "es.pws" "es.prepl" "en.pws" "en.prepl" "emacs-keys.txt" "edb_pgjdbc.exe" "arch.txt" "aprender-clojure.org" ".viminfo" ".ssh/" ".smex-items" ".ocamlinit" ".lein/" ".idlerc/" ".gitconfig" ".gem/" ".fontconfig/" ".emacs.d/" ".cache/" ".bash_profile" ".bash_history" "../" "./")
+
+ ("c:/devel/fsharp/" (22625 27775 0 0) "tests.fsx" "../" "./")
+
+ ("c:/devel/haskell/Fractals.hsproj/" (22064 12684 0 0) "_LineGraphics.hsplay" "_Fractals.hsplay" "LineGraphics.hs" "Fractals.hs" "Fractals.cabal" "../" "./")
+
+ ("c:/devel/haskell/" (22625 24859 0 0) "test.o" "test.hs" "test.hi" "test.exe" "test-stack/" "my-yesod/" "inicio.o" "inicio.hs" "inicio.hi" "inicio.exe" "gtk2hs/" "game/" "Fractals.zip" "Fractals.hsproj/" "fay-test.js" "fay-test.html" "fay-test.hs" "../" "./")
+
+ ("c:/devel/" (22616 13968 0 0) "WebFControl/" "sigec14-antes limpieza.rar" "sigec14 - antes version perla.rar" "sigec14/" "scala/" "ring.wiki/" "racket/" "perlaairlines/" "perla original.rar" "perla original/" "ocaml/" "microsatas-certificado.p12" "Licencia Savannah.rar" "Java/" "Haxe/" "haskell/" "go/" "fsharp/" "compile_results.log" "Clojure/" "C++/" "As3/" "ANTES UPDATE 23-07-2013.rar" "00-Design/" "../" "./")
+
+ ("c:/Lisp/" (22617 9297 0 0) "home/" "haskell.emacs.d.zip" "emacs-24.5/" "Aspell/" ".emacs.d-clojure.zip" "../" "./")
+
+ ("c:/devel/haskell/my-yesod/templates/" (22592 11151 0 0) "profile.hamlet" "homepage.lucius" "homepage.julius" "homepage.hamlet" "default-layout.lucius" "default-layout.hamlet" "default-layout-wrapper.hamlet" "../" "./")
+
+ ("c:/devel/haskell/my-yesod/static/tmp/" (22592 15668 0 0) "autogen-yWbYL5Pf.css" "autogen-r3XaZuvR.js" "autogen-dyDfk8nC.css" "autogen-8iASS6X3.css" "../" "./")
+
+ ("c:/devel/haskell/my-yesod/static/" (22592 15280 0 0) "tmp/" "fonts/" "css/" "../" "./")
+
+ ("c:/devel/haskell/my-yesod/app/" (22592 11151 0 0) "main.hs" "DevelMain.hs" "devel.hs" "../" "./")
+
+ ("c:/devel/haskell/my-yesod/" (22592 19993 0 0) "yesod-devel/" "test/" "templates/" "static/" "stack.yaml" "Settings.hs" "Settings/" "my-yesod.sqlite3" "my-yesod.cabal" "Model.hs" "Import.hs" "Import/" "Handler/" "Foundation.hs" "dist/" "config/" "Application.hs" "app/" ".stack-work/" ".gitignore" ".dir-locals.el" "../" "./")
+
+ ("c:/Lisp/emacs-24.5/" (22241 29889 0 0) "var/" "share/" "libexec/" "bin/" "../" "./")
+
+ ("c:/Lisp/emacs-24.5/bin/" (21827 21370 0 0) "runemacs.exe" "libXpm.dll" "grep-changelog" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-24.5.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
