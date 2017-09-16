@@ -30,8 +30,9 @@
 
 ;; ----- ido-work-file-list -----
 (
- "compara-paquetes.ml"
+ "flatten.ml"
  "test.ml"
+ "compara-paquetes.ml"
  ".bashrc"
  ".profile"
  "init.el"
@@ -39,14 +40,13 @@
  "gameoflife.fsx"
  "tests.fsx"
  "tests.fs"
- "Fractals.hs"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/jboadas/devel/ocaml/" (22828 36798 820488 987000) "myapp/" "compara-paquetes.ml" "./" "test.ml" "../")
+ ("/home/jboadas/devel/ocaml/" (22859 53986 769286 21000) "myapp/" "compara-paquetes.ml" "./" "test.ml" "../" "flatten.ml")
 
- ("/home/jboadas/" (22828 36853 434357 164000) ".eclipse/" ".xfce4-session.verbose-log.last" ".designer/" ".ICEauthority" "Pictures/" ".xinitrc" ".cache/" ".oracle_jre_usage/" ".bluefish/" ".mozilla/" ".xfce4-session.verbose-log" ".Xresources" "Templates/" ".local/" "Downloads/" "Documents/" ".thumbnails/" ".bash_profile" ".extend.bashrc" ".bash_logout" ".kompozer.net/" ".profile" ".ccache/" ".Xclients" "./" ".bashrc" ".npm/" "Public/" ".ocp/" ".java/" ".m2/" ".gnupg/" ".config/" ".xsession-errors.old" ".emacs.d/" ".guayadeque/" ".smex-items" ".grafx2/" "jagexcache/" ".xsession-errors" ".swt/" "jagex_cl_oldschool_LIVE.dat" ".icons/" ".bash_history" "random.dat" "Videos/" ".mono/" ".ocamlinit" ".gnome/" ".xprofile" "Desktop/" ".dir_colors" ".osbuddy/" ".Xauthority" ".mtpaint" ".thunderbird/" ".vimrc" "Music/" ".opam/" ".utop-history" "devel/" ".dmrc" "../" ".esd_auth" ".viminfo" ".extend.xinitrc" ".xsession" ".gimp-2.8/")
+ ("/home/jboadas/" (22859 53988 895972 861000) ".eclipse/" ".xfce4-session.verbose-log.last" ".putty/" ".designer/" ".ICEauthority" ".dwarffortress/" "Pictures/" ".xinitrc" ".ssh/" ".cache/" ".oracle_jre_usage/" ".bluefish/" ".dbeaver-drivers/" ".mozilla/" ".xfce4-session.verbose-log" ".Xresources" "torrents/" "Templates/" ".local/" "Downloads/" "Documents/" ".thumbnails/" ".bash_profile" ".extend.bashrc" ".bash_logout" ".kompozer.net/" ".profile" ".ccache/" ".Xclients" "./" ".bashrc" ".npm/" "Public/" ".ocp/" ".gitconfig" "Jagex/" ".java/" ".m2/" ".gnupg/" ".config/" ".xsession-errors.old" ".emacs.d/" ".guayadeque/" ".smex-items" ".grafx2/" "jagexcache/" ".xsession-errors" ".swt/" "jagex_cl_oldschool_LIVE.dat" ".runescape" ".crawl/" ".icons/" ".bash_history" "random.dat" "Videos/" ".mono/" ".ocamlinit" ".gnome/" ".xprofile" "Desktop/" ".aspell.en.pws" ".dir_colors" ".osbuddy/" ".Xauthority" ".mtpaint" ".aspell.en.prepl" ".thunderbird/" ".dbeaver4/" ".vimrc" "Music/" ".opam/" ".utop-history" "devel/" ".dmrc" "../" ".esd_auth" ".viminfo" ".extend.xinitrc" ".xsession" ".gimp-2.8/")
 
  ("/home/jboadas/devel/" (22828 11557 863058 883000) "./" "ocaml/" "java/" "various/" "../")
 
